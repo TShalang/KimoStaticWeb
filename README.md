@@ -1,0 +1,2 @@
+# KimoStaticWeb
+Kimosource static website
